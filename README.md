@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Egan Thieo Toribio*
 ##  About Me
-I'm a Cybersecurity student at the University of Texas at San Antonio (UTSA), with a focus on Digital Forensics. I'm developing my technical skills through hands-on labs and exploring tools and techniques used to investigate digital evidence, analyze systems, and understand cyber threats. I'm passionate about cybersecurity and continuously learning new skills to prepare for a career in digital forensics and incident response. _
+I'm a Cybersecurity student at the University of Texas at San Antonio (UTSA), with a focus on Digital Forensics. I'm developing my technical skills through hands on labs and exploring tools and techniques used to investigate digital evidence, analyze systems, and understand cyber threats. I'm eager about cybersecurity and continuously learning new skills to prepare for a career in digital forensics and incident response. _
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
