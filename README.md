@@ -16,4 +16,4 @@ I'm a Cybersecurity student at the University of Texas at San Antonio (UTSA), wi
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<EganThieoToribio>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/</eganthieotoribio>)
 
-_"Your sample quote here!"_
+_"Do. Or do not. There is no try - Yoda"_
